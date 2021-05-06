@@ -1,5 +1,4 @@
 const url = 'https://nsscdcl.org/covidbeds/'
-const https = require('https')
 const cheerio = require('cheerio')
 const request = require('request')
 const io = require('indian-ocean')
