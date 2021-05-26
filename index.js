@@ -25,11 +25,12 @@ const run = async() => {
 							console.log('Writing Data')
 							io.writeDataSync('./data/files/'+data[data.length-1].date+'.csv',data)
 						}
-					
 					}
-					
 				}  
 	        }
+
+	        console.log('Writing Data')
+			io.writeDataSync('./data/files/'+data[data.length-1].date+'.csv',data)
 		} else {
 			console.log('Page down')
 		}
