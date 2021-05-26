@@ -1,0 +1,207 @@
+o_O2,o_ventilator,o_nonO2,o_ICU,a_ventilator,a_nonO2,a_O2,a_ICU,name,date
+2489,667,136,1631,110,800,3260,916,All Hospitals,2021-05-26T11:36:19.261Z
+175,177,0,225,2,0,415,85,GMC,2021-05-26T11:36:19.443Z
+168,100,0,133,2,0,270,3,IGGMC,2021-05-26T11:36:19.623Z
+45,0,20,18,0,191,47,29,AIIMS Hospital,2021-05-26T11:36:19.787Z
+28,0,0,0,0,2,62,0,Indira Gandhi Rugnalaya Gandhi Nagar,2021-05-26T11:36:19.960Z
+32,0,0,0,0,0,0,0,Isolation Hospital Imamwada,2021-05-26T11:36:20.129Z
+5,0,0,0,0,0,37,0,Ayush Hopital (NMC Sadar),2021-05-26T11:36:20.286Z
+40,0,0,0,0,10,28,0,Pachpaoli DCHC Center,2021-05-26T11:36:20.460Z
+174,9,0,10,0,0,10,0,Lata Mangeshkar Hospital Hingna (S.G.),2021-05-26T11:36:20.614Z
+15,7,0,14,0,14,25,0,Lata Mangeshkar Hospital Sitabuldi (S.G.),2021-05-26T11:36:20.787Z
+34,9,0,9,6,20,316,6,Shalinitai Meghe Hospital (S.G.),2021-05-26T11:36:20.960Z
+6,0,0,0,0,0,44,0,Panchpaoli Womens Hospital,2021-05-26T11:36:21.129Z
+8,0,0,0,0,0,36,0,K.T. Nagar NMC Hospital,2021-05-26T11:36:21.302Z
+4,0,0,0,0,0,43,22,Railway Hospital,2021-05-26T11:36:21.470Z
+0,5,0,4,0,0,11,14,Orange City Hospital,2021-05-26T11:36:21.640Z
+57,11,0,15,0,0,0,0,CIIMS Hospital,2021-05-26T11:36:21.802Z
+0,0,0,3,1,0,0,11,Treat Me Hospital,2021-05-26T11:36:21.972Z
+9,0,0,3,2,0,2,4,Kalpavruksha Hospital,2021-05-26T11:36:22.130Z
+14,0,0,5,0,0,1,0,Grace Ortho Hospital,2021-05-26T11:36:22.286Z
+5,2,0,3,2,13,15,30,Nucleus Mother and Child Hospital,2021-05-26T11:36:22.452Z
+1,3,6,3,2,4,25,6,Swasthyam Superspeciality Hospital,2021-05-26T11:36:22.614Z
+15,1,0,4,0,0,0,0,Maxcare Hospital,2021-05-26T11:36:22.771Z
+0,0,0,0,0,0,0,0,S S Multispeciality Hospital,2021-05-26T11:36:22.920Z
+6,1,0,4,0,0,0,0,Athaayu Multispeciality Hospital,2021-05-26T11:36:23.240Z
+23,0,0,27,0,0,0,0,Central India Cardiology Hospital,2021-05-26T11:36:23.390Z
+4,1,0,5,0,0,10,0,Sanjeevani Hospital (Laxminagar),2021-05-26T11:36:23.546Z
+19,10,0,15,0,4,43,13,Wockhardt Hospita Gandhi Nagar,2021-05-26T11:36:23.719Z
+47,14,0,17,0,0,0,0,Wockhardt Hospital Shankar Nagar,2021-05-26T11:36:23.880Z
+26,10,0,20,0,0,4,0,Viveka Superspeciality Hospital,2021-05-26T11:36:24.036Z
+65,14,0,51,0,0,0,0,Meditrina Hospital,2021-05-26T11:36:24.427Z
+6,1,1,5,5,0,36,5,Ganga Care Hospital,2021-05-26T11:36:24.583Z
+43,5,0,17,0,0,0,0,Sushrut Hospital,2021-05-26T11:36:24.740Z
+38,2,0,8,0,0,0,0,Ayushman Hospital,2021-05-26T11:36:24.906Z
+3,2,0,7,0,0,0,1,Respira Hospital,2021-05-26T11:36:25.076Z
+17,0,2,18,0,13,0,0,Sunflower Hospital,2021-05-26T11:36:25.253Z
+2,0,0,0,0,3,8,12,Sengupta Hospital,2021-05-26T11:36:25.411Z
+17,4,0,9,0,0,0,0,Krims Hospital,2021-05-26T11:36:25.561Z
+3,3,0,19,0,0,0,0,Swastik Critical Care,2021-05-26T11:36:25.719Z
+8,0,0,6,0,0,0,0,Medigrace Hospital,2021-05-26T11:36:25.891Z
+13,3,0,10,0,0,2,0,Shraman Hospital,2021-05-26T11:36:26.045Z
+0,5,0,36,0,0,0,12,Aditya hospital,2021-05-26T11:36:26.218Z
+20,0,0,0,0,0,4,0,Zenith Hospital,2021-05-26T11:36:26.389Z
+14,2,0,7,0,0,1,0,G.B. Multicare Hospital,2021-05-26T11:36:26.703Z
+6,1,0,4,0,0,17,3,Dande Hospital,2021-05-26T11:36:26.880Z
+0,0,0,4,0,18,20,5,Mure Memorial Hospital,2021-05-26T11:36:27.047Z
+8,0,0,0,0,0,1,2,Kalamkar Multispeciality Hospital,2021-05-26T11:36:27.207Z
+0,1,0,4,0,5,10,15,Asian Kidney Hospital and Medical Center,2021-05-26T11:36:27.365Z
+24,1,0,4,0,0,0,0,Raut Nursing Home,2021-05-26T11:36:27.539Z
+2,3,0,7,0,0,8,20,Center Point Hospital,2021-05-26T11:36:27.710Z
+0,5,0,10,0,5,45,5,Aureus Hospital,2021-05-26T11:36:27.876Z
+13,2,0,19,0,0,0,0,Keshav Hospital,2021-05-26T11:36:28.032Z
+4,1,4,11,0,0,0,0,Aastha Critical Care Hospital,2021-05-26T11:36:28.194Z
+0,0,0,1,0,1,20,9,Shri Saikripa Hospital,2021-05-26T11:36:28.362Z
+0,4,0,0,0,0,5,21,Star City Hospital,2021-05-26T11:36:28.531Z
+19,1,0,10,0,0,0,0,Vighnharta Hospital,2021-05-26T11:36:28.688Z
+0,0,0,0,2,0,5,15,Green City Nursing Home,2021-05-26T11:36:28.865Z
+6,0,0,5,0,0,0,0,Itkelwar Multispeciality Hospital,2021-05-26T11:36:29.031Z
+17,0,0,8,0,0,0,0,Gaikwad Critical Care Center,2021-05-26T11:36:29.192Z
+45,5,0,12,0,0,17,0,Neuron Hospital,2021-05-26T11:36:29.349Z
+20,2,12,23,0,0,0,0,Gatewell Hospital,2021-05-26T11:36:29.521Z
+22,5,0,14,0,0,0,0,Suretech Hospital,2021-05-26T11:36:29.687Z
+7,2,0,1,0,0,3,6,Avanti Heart institute,2021-05-26T11:36:29.889Z
+3,2,0,10,0,0,17,3,Shrikrishna Hrudayalaya,2021-05-26T11:36:30.046Z
+5,2,0,3,0,9,5,3,G. T. Padole Hospital,2021-05-26T11:36:30.217Z
+26,5,0,10,0,0,0,0,Columbia Hospital,2021-05-26T11:36:30.380Z
+15,9,0,9,0,0,15,1,Criticare Hospital,2021-05-26T11:36:30.710Z
+0,0,0,6,1,0,0,17,Arneja Institute of Cardiology,2021-05-26T11:36:30.880Z
+0,0,0,1,4,4,2,19,NIMS Hospital,2021-05-26T11:36:31.030Z
+1,0,0,3,0,0,1,4,Shivganga Hospital ,2021-05-26T11:36:31.193Z
+6,2,0,4,0,0,0,0,Cancer Clinic,2021-05-26T11:36:31.364Z
+1,0,0,0,9,0,6,9,Cure it Hospital,2021-05-26T11:36:31.696Z
+28,4,0,12,0,0,0,0,Shree Hospital,2021-05-26T11:36:31.866Z
+0,0,0,2,0,0,15,28,Wanjari Hospital ,2021-05-26T11:36:32.020Z
+13,1,0,17,0,0,0,0,Gracious Hospital,2021-05-26T11:36:32.187Z
+1,2,0,22,0,0,9,11,Suryodaya Hospital,2021-05-26T11:36:32.360Z
+4,0,0,0,0,0,21,5,Borkar Multispeciality Hospital,2021-05-26T11:36:32.515Z
+0,0,0,3,0,0,7,5,Shravan Hospital,2021-05-26T11:36:32.671Z
+22,1,0,5,0,0,1,0,Nandanwar Trauma Center,2021-05-26T11:36:32.833Z
+7,1,0,6,0,0,0,0,Esha Hospital,2021-05-26T11:36:33.005Z
+11,0,0,19,0,4,1,5,Evershine Hospital,2021-05-26T11:36:33.178Z
+8,0,0,9,0,0,1,0,Sawarkar Multispeciality Hospital,2021-05-26T11:36:33.390Z
+5,6,0,8,0,0,20,6,Central Avenue Critical Care Hospital,2021-05-26T11:36:33.563Z
+10,1,0,2,1,0,22,8,Safe Hands Hospital,2021-05-26T11:36:33.734Z
+2,3,0,5,8,0,43,15,Radiance Hospital,2021-05-26T11:36:33.906Z
+33,4,0,15,0,0,0,0,Seven Star Hospital,2021-05-26T11:36:34.062Z
+3,7,0,16,0,0,61,25,Shri Radhakrishna Hospital,2021-05-26T11:36:34.448Z
+10,0,0,1,3,0,33,8,New Era (East End) Hospital,2021-05-26T11:36:34.615Z
+32,2,0,8,0,0,0,0,Ramdeobaba Hospital,2021-05-26T11:36:34.787Z
+21,3,0,3,0,0,0,0,Kubde Hospital,2021-05-26T11:36:34.953Z
+3,0,0,1,0,10,7,9,Tarangan Hospital,2021-05-26T11:36:35.115Z
+3,1,0,2,1,0,9,5,Aastha Hospital (Bhandara road),2021-05-26T11:36:35.271Z
+3,3,3,3,0,52,52,16,VIIMS Hospital,2021-05-26T11:36:35.427Z
+3,8,1,2,6,4,58,6,Shri Bhavani Hospital,2021-05-26T11:36:35.584Z
+0,0,0,0,2,5,8,20,Samarpan Hospital,2021-05-26T11:36:35.732Z
+8,4,0,2,0,0,24,8,Venus Hospital,2021-05-26T11:36:35.889Z
+17,2,19,9,0,0,0,0,Nimbunabai Tirpude Hospital,2021-05-26T11:36:36.046Z
+71,3,0,29,0,0,0,0,Hope Hospital,2021-05-26T11:36:36.568Z
+0,12,0,14,2,0,17,14,Kunal Hospital,2021-05-26T11:36:36.718Z
+25,10,0,21,0,0,20,4,Kingsway Hospital,2021-05-26T11:36:36.881Z
+3,10,0,19,0,0,13,0,Alexis Hospital,2021-05-26T11:36:37.053Z
+40,4,0,10,0,2,0,0,Medicare Hospital,2021-05-26T11:36:37.220Z
+0,1,0,1,2,0,2,6,Dr. A. Badar Surgical Nurshing Home,2021-05-26T11:36:37.532Z
+8,2,2,12,0,0,0,0,Niramay Hospital,2021-05-26T11:36:37.688Z
+9,0,0,6,0,0,9,1,Shanti Mohan Hospital,2021-05-26T11:36:37.850Z
+0,0,0,0,0,1,5,2,Pioneer Nursing Home,2021-05-26T11:36:58.025Z
+0,1,3,12,0,0,0,0,Lifesprings Hospital,2021-05-26T11:36:58.409Z
+0,0,3,10,0,0,0,0,Central Hospital Ramdaspeth,2021-05-26T11:36:58.586Z
+1,0,0,0,0,8,11,0,Kothari Hospital,2021-05-26T11:36:58.758Z
+0,0,0,0,0,0,0,0,Mother and Child Care Hospital,2021-05-26T11:36:58.930Z
+6,0,0,4,0,0,0,0,Belsare Hospital,2021-05-26T11:36:59.101Z
+0,0,0,0,0,0,0,25,Safal Hospital,2021-05-26T11:36:59.430Z
+11,1,0,3,0,0,5,0,Rahate Nursing Home,2021-05-26T11:36:59.595Z
+15,4,10,15,0,0,0,0,Prestige Hospital,2021-05-26T11:36:59.961Z
+8,3,0,4,0,0,11,2,Dande Hospital Hill Road,2021-05-26T11:37:00.111Z
+10,0,0,10,0,0,0,0,Crystal Nursing Home,2021-05-26T11:37:00.267Z
+10,4,2,5,0,0,4,0,Khalatkar Bal Rugnalaya,2021-05-26T11:37:00.617Z
+9,0,0,0,0,0,0,0,Shanti Niketan Nursing Home,2021-05-26T11:37:00.783Z
+0,1,0,3,6,0,0,10,Life Care Hospital,2021-05-26T11:37:00.938Z
+5,0,0,5,0,0,0,0,Gencure Hospital,2021-05-26T11:37:01.111Z
+8,0,0,0,0,0,0,0,Godani Hospital,2021-05-26T11:37:01.284Z
+4,0,0,0,0,0,0,0,Shri Dhanwantari Hospital,2021-05-26T11:37:01.702Z
+0,1,0,16,0,0,0,0,Adishakti Hospital,2021-05-26T11:37:01.868Z
+4,0,0,0,0,0,6,3,Carewell Hospital,2021-05-26T11:37:02.196Z
+0,0,0,2,0,0,0,2,Platina Heart Hospital,2021-05-26T11:37:02.363Z
+0,1,0,0,0,0,13,1,RNH Hospital Pvt. Ltd.,2021-05-26T11:37:02.518Z
+7,2,0,9,0,0,0,0,Midas Multispeciality Hospital Pvt. Ltd.,2021-05-26T11:37:02.852Z
+0,0,0,0,0,2,21,7,New Life Hospital (Unit of ChhajedHealthcare Pvt. Ltd.),2021-05-26T11:37:03.001Z
+8,0,0,0,0,0,2,0,Ortho Avenue Hospital,2021-05-26T11:37:03.173Z
+7,1,0,3,0,0,0,0,Sigma Hospital (Run by Jeswani Multispecialty Hospital),2021-05-26T11:37:03.336Z
+3,6,0,22,0,0,0,0,Agrawal Hospital,2021-05-26T11:37:03.508Z
+1,0,0,0,0,0,6,0,Deshmane Hospital,2021-05-26T11:37:04.003Z
+7,0,0,0,0,0,0,0,Sneh Nursing Home,2021-05-26T11:37:04.158Z
+5,0,0,0,0,0,0,0,Nalin Hospital,2021-05-26T11:37:05.337Z
+3,0,0,0,0,0,1,0,Akruti Hospital,2021-05-26T11:37:05.503Z
+15,0,0,0,0,0,10,0,Chimalwar Clinic,2021-05-26T11:37:05.830Z
+0,0,0,0,0,4,16,0,P. D. Hospital,2021-05-26T11:37:06.001Z
+1,0,0,0,0,0,3,6,Gomashe Nursing Home,2021-05-26T11:37:06.174Z
+2,0,0,0,0,0,0,0,Panchsheel Hospital,2021-05-26T11:37:06.658Z
+5,0,0,5,0,0,0,0,Sparsh Hospital,2021-05-26T11:37:06.831Z
+0,1,0,5,4,0,15,10,Chaudhari Hospital,2021-05-26T11:37:06.992Z
+0,1,0,8,0,0,0,0,Chirayu Hospital,2021-05-26T11:37:07.155Z
+5,0,0,5,0,0,0,0,Shrikripa Hospital,2021-05-26T11:37:07.315Z
+6,1,0,12,0,0,0,0,Arogyam Hospital,2021-05-26T11:37:07.477Z
+2,1,0,1,0,0,8,5,Baraskar Hospital,2021-05-26T11:37:07.649Z
+0,0,0,0,0,0,14,0,OM Hospital,2021-05-26T11:37:07.804Z
+6,0,0,0,0,0,44,0,Shree Ayurveda (Pakwasa),2021-05-26T11:37:07.973Z
+0,0,0,0,0,0,0,0,Nakade Healh Care Centre,2021-05-26T11:37:08.142Z
+1,0,0,0,0,0,9,0,Soni Hospital,2021-05-26T11:37:08.308Z
+0,0,0,4,2,0,10,8,Tamaskar Clinic,2021-05-26T11:37:08.477Z
+0,0,0,0,1,0,19,2,Matru Seva Sangh,2021-05-26T11:37:08.789Z
+2,0,0,0,4,0,30,9,National Cancer Institute Jamtha,2021-05-26T11:37:08.955Z
+23,2,7,25,2,24,13,6,"Military Hospital, Kamptee",2021-05-26T11:37:09.118Z
+0,12,0,7,5,0,36,16,"Life Line Hospital, Kamptee",2021-05-26T11:37:09.284Z
+0,7,0,15,0,0,44,27,"City Hospital, Kamptee",2021-05-26T11:37:09.446Z
+72,14,0,4,6,0,58,6,"ASHA Hospital, Kamptee",2021-05-26T11:37:09.612Z
+0,2,0,8,0,0,18,7,"Arch Angel Hspital, Umred",2021-05-26T11:37:09.774Z
+7,6,0,9,0,0,35,8,"Suretech Hospital, Jamtha",2021-05-26T11:37:09.961Z
+0,3,0,11,0,0,18,8,Ayushman Multispeciality Hsp. Kamptee,2021-05-26T11:37:10.118Z
+3,0,0,10,0,0,10,0,"Nakshatra Hospital, Wadi",2021-05-26T11:37:10.275Z
+0,3,0,5,0,7,8,3,"Axon Hospital, Nagpur",2021-05-26T11:37:10.446Z
+7,3,0,11,0,0,19,0,"Swami Vivekanand Hospital, Khapari ",2021-05-26T11:37:10.610Z
+11,1,0,4,0,0,3,1,Sanjeevani Hospital Godhani,2021-05-26T11:37:10.774Z
+11,2,0,5,1,35,84,42,COVIDALAYA  Hospital Jamtha (Indumati Gaikwad Patil Hospital),2021-05-26T11:37:10.946Z
+10,1,0,2,0,0,15,2,"Star Hospital, Wadi",2021-05-26T11:37:11.112Z
+5,0,0,5,0,6,26,3,"Choudhari Hospital, Kamptee",2021-05-26T11:37:11.272Z
+2,0,3,0,0,12,13,0,"Choudhari Multispeciality Hospital, Butibori ",2021-05-26T11:37:11.430Z
+6,0,0,0,0,0,19,0,"Shreyas Patil Multispeciality Hospital, Saoner",2021-05-26T11:37:11.586Z
+1,0,0,0,0,0,19,0,"Rachana Hospital, Butibori",2021-05-26T11:37:11.758Z
+18,3,0,2,0,0,12,0,"Yogiraj Swami Sitaramdasji Maharaj Hospital, Ramtek",2021-05-26T11:37:11.923Z
+12,0,0,3,0,15,2,0,"Aditya hospital, Saoner",2021-05-26T11:37:12.086Z
+0,0,0,3,0,0,0,12,"New life hospital, Besa",2021-05-26T11:37:12.252Z
+12,0,3,9,0,15,2,1,New Life Hospital Dahegaon,2021-05-26T11:37:12.409Z
+1,0,0,2,0,6,3,0,BAGHE MULTISPECIALITY HOSPITAL,2021-05-26T11:37:12.564Z
+3,1,0,3,0,0,17,0,Shourya Hospital,2021-05-26T11:37:12.722Z
+5,0,2,0,0,0,0,0,"Dudhe Hospital, Surabuldi",2021-05-26T11:37:12.893Z
+10,1,0,7,1,0,8,3,"Kimaya Hospital, Ramtek",2021-05-26T11:37:13.065Z
+25,3,9,2,0,6,0,0,Maya Hospital Butibori,2021-05-26T11:37:13.237Z
+0,0,0,0,0,0,17,3,"Kazmi Hospital, Kamptee",2021-05-26T11:37:13.399Z
+0,0,0,1,0,6,4,4,Dhanwantari Katol,2021-05-26T11:37:13.571Z
+4,0,0,1,0,2,30,3,Roy Hospital Kamptee,2021-05-26T11:37:13.742Z
+3,2,0,4,0,0,21,0,"Shakti Nursing Home, Hingna",2021-05-26T11:37:13.899Z
+0,0,0,0,2,0,10,10,"Mahure Hospital, Kamptee",2021-05-26T11:37:14.117Z
+25,2,5,8,0,60,0,0,Tanushree Nursing Home Saoner,2021-05-26T11:37:14.541Z
+2,0,1,0,0,9,8,0,"Pande Childcare, Kalmeshwar",2021-05-26T11:37:14.711Z
+2,0,0,0,0,0,8,0,Matoshree Hospital Besa,2021-05-26T11:37:14.884Z
+0,0,0,0,0,0,5,0,"Shri.Sai Multispeciality Hospital, Butibori",2021-05-26T11:37:15.049Z
+2,0,0,0,0,18,20,0,"Zurmure Hospital, Umred",2021-05-26T11:37:15.211Z
+3,0,4,0,0,5,12,0,"Jawaharlal Neharu Central Hospital, Kandri Kanhan Parseoni",2021-05-26T11:37:15.378Z
+1,0,0,0,0,20,29,0,Shree Gurukrupa Hospital Saoner,2021-05-26T11:37:15.539Z
+3,1,0,3,0,0,4,4,G.M.Hospital Bokara,2021-05-26T11:37:15.711Z
+9,0,0,3,0,0,3,2,Gaikwad Hospital Godhani,2021-05-26T11:37:15.876Z
+16,0,0,0,0,35,9,0,Jaiswal Hospital Gujarkhedi Saoner,2021-05-26T11:37:16.049Z
+10,0,1,0,0,29,0,0,"Jai Shraddha Hospital, Khapa",2021-05-26T11:37:16.205Z
+4,0,2,0,0,8,0,0,Wankhede Hospital Kanhan Parseoni,2021-05-26T11:37:16.377Z
+0,0,0,1,0,0,12,1,"Suretech Hospital, Katol",2021-05-26T11:37:16.539Z
+5,0,0,0,0,0,5,0,Sainath Multispeciality Ghogali,2021-05-26T11:37:16.689Z
+0,0,2,0,0,0,8,0,MCH Koradi,2021-05-26T11:37:16.845Z
+0,0,0,0,0,0,20,0,Max Care Hospital Khapa Saoner,2021-05-26T11:37:17.008Z
+1,0,0,0,0,30,5,0,OFAJ Hospital Ambajhari,2021-05-26T11:37:17.180Z
+12,0,2,0,0,20,6,0,RH Bhiwapur,2021-05-26T11:37:17.352Z
+7,0,0,0,0,0,14,0,RH Mouda,2021-05-26T11:37:17.519Z
+10,0,7,0,0,0,4,0,RH Katol,2021-05-26T11:37:17.680Z
+6,0,0,0,0,0,14,0,SDH Ramtek,2021-05-26T11:37:17.846Z
+7,0,0,0,0,0,14,0,SDH Kamptee,2021-05-26T11:37:18.017Z
+0,0,0,0,0,18,0,0,Hotel Restr Inn,2021-05-26T11:37:18.190Z
+7,0,0,8,0,0,0,0,Prime Nursing Home,2021-05-26T11:37:19.486Z
